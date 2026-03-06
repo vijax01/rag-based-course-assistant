@@ -1,0 +1,13 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" fill="none">
+
+  <!-- Outer Hexagon -->
+  <polygon points="32,4 56,18 56,46 32,60 8,46 8,18" stroke="#6366F1" stroke-width="3" fill="none"></polygon>
+
+  <!-- Inner database layers (knowledge base) -->
+  <ellipse cx="32" cy="26" rx="12" ry="4" stroke="#6366F1" stroke-width="2"></ellipse>
+  
+  <path d="M20 26 v6 c0 2 5 4 12 4 s12-2 12-4 v-6" stroke="#6366F1" stroke-width="2" fill="none"></path>
+
+  <path d="M20 32 v6 c0 2 5 4 12 4 s12-2 12-4 v-6" stroke="#6366F1" stroke-width="2" fill="none"></path>
+
+</svg>
